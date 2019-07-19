@@ -1,0 +1,75 @@
+Blockchain
+1. Blockchain
+2. SHA256 // 
+3. Immutable Ledger
+4. Distributed P2P Network
+
+Bitcoin
+1. Bitcoin
+2. Mining Pools
+3. CPU vs GPU vs ASCII
+4. How do Mempools Work//
+5. Orphaned Blocks
+6. 51 Attack
+
+Crytocurrency Transaction
+1. Transactions UTXOs
+2. Where do Transaction fees come from
+3. How Waller work & Signature keys
+4. Segwit
+5. Public vs Bitcoin Address
+
+Smart Contract
+1. Ethereum
+2. Smart Contract
+3. DApps
+4. Gas
+5. Dao Attack
+6. Soft & Hard Fork
+7. ICO
+8. Web 3.0
+
+Bitcoin & Ethreum rate
+Solidity
+Web3
+ReactJs
+
+
+Blockchain
+Wikipedia Defination
+
+Block has:
+Data
+Own Hash( Data +  Prev Hash)
+Prev Hash
+Block Number
+Nonce
+
+Genesis Block = First Block
+
+
+SHA 256 =  One way
+Avalenche Affect
+
+Immutable Ledger
+
+Distributed Network P2P
+Consensus Protocol - Overwrite
+51 Attack -  attack at the same time then they take over the network
+
+Mining
+There is a target, hash value should be below the target : Just to give hurdle for mining
+Miners create blocks
+Miners can only change nonce
+
+Consensus Prototcal
+PoW
+PoS
+ 
+
+//Ethreuem App Architecture
+
+
+Applications of Blockchain and Ethereum
+
+//Front end
